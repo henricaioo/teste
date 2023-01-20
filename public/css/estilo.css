@@ -1,0 +1,25 @@
+body{
+    background-color: #BAE3FF;
+    background-image: url('https://images.wallpaperscraft.com/image/single/astronaut_art_space_129529_1920x1080.jpg');
+    background-size: 100% auto;
+}
+.orange{
+    color: #FFC35A;
+}
+.orange-bg{
+    background-color: #FFC35A;
+}
+nav a:hover{
+    background-color: #FFC35A;
+    color: black;
+    border-radius: 10px;
+}
+.footer, .page-wrap:after{
+    height: 4vh;
+}
+.mb-6{
+    margin-bottom: 80px;
+}
+.hide{
+    display: none;
+}
