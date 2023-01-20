@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost:8080';
+	public $baseURL = 'http://vps38284.publiccloud.com.br/projetos/caioherique/teste%201/';
 
 	/*
 	|--------------------------------------------------------------------------
